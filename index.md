@@ -2,7 +2,13 @@
 
 **I am a third year Computer Engineering Major**. A quote I adhere to regarding work is:
 > "Life offers no greater prize than the chance to work hard at work worth doing." -- Theodore Roosevelt
-
+I love if-else statements:
+```python
+if n > 100:
+  n = n - 1
+else:
+  n = 0
+```
 My favorite programming language is:
 
 
