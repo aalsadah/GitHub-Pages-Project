@@ -12,3 +12,12 @@ My favorite programming language is:
 Here is my Github pages website of my [CSE15l Lab Reports](https://aalsadah.github.io/cse15l-lab-reports/).
 Link to readme file of this Repository: [Readme.md](README.md)
 # Learning Goals for CSE110
+### Soft Skills:
+-Learn how to communicate effectively with team members when working on the project  
+-Manage time and schedule meeting times and create a good working routine, slow and steady wins the race  
+-Learn when to admit that I don't know a certain concept and be open to learning from my fellow team members  
+
+### Hard Skills:
+1. Learn how to program on Javascript and gain the skill to create webpages and understand the process of designing such software
+2. Learn how to code collaboratively on git
+3. Master VScode environment
